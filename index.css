@@ -54,6 +54,10 @@ section{
     color:var(--main-color);
     text-transform: uppercase;
 }
+.box-container .prices {
+    color: rgb(230, 9, 9) ;
+    text-align: center;
+}
 
 .btn{
     margin-top: 1rem;
